@@ -1,4 +1,4 @@
-### Problem: I need to whitelist a set of public IP addresses which will be assigned to NGINX instances which are configured in an auto-scaling group. 
+### I need to whitelist a set of public IP addresses which will be assigned to NGINX instances which are configured in an auto-scaling group. 
 
 ### Solutions
 
